@@ -9,5 +9,5 @@
 <p>- <strong>Html/CSS/Java Script</strong> ★★☆☆☆</p>
 <p>- <strong>SQL</strong>  ★★★☆☆</p>
 
-<h5>About Me</h5>
+<h3>About Me</h3>
 <a href="Https://bit.ly/LeeJoon" target="blank">Notion</a>
