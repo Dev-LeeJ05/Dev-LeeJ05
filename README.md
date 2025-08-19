@@ -1,13 +1,12 @@
 
-# Unity Client Developer   ***Lee Joon*** 
-<h3 id="-unity-i-m-interested-in-gameprograming-and-server-">Stack</h3>
-<p>- <strong>Unity2D/3D</strong>  ★★★★☆</p>
-<p>- <strong>C#</strong>  ★★★★☆</p>
-<p>- <strong>Java</strong>  ★★★☆☆</p>
-<p>- <strong>Python</strong> ★★☆☆☆</p>
-<p>- <strong>Spring Boot</strong> ★★☆☆☆</p>
-<p>- <strong>Html/CSS/Java Script</strong> ★★☆☆☆</p>
-<p>- <strong>SQL</strong>  ★★★☆☆</p>
+# Unity Developer   **Lee Joon** 
 
-<h3>About Me</h3>
-<a href="Https://bit.ly/LeeJoon" target="blank">Notion</a>
+![Discord Presence](https://lanyard.cnrad.dev/api/v1/users/374075676061335553?theme=dark&bg=transparent&hideDiscrim=true&hideStatus=true&borderRadius=5px)
+
+![Dev-LeeJ05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-LeeJ05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LeeJ05&langs_count=5&layout=compact)](https://github.com/Dev-LeeJ05/github-readme-stats)
+
+#### About Me  
+
+[![Notion Badge](https://img.shields.io/badge/Notion-MyPage-black?style=plastic&logo=notion&logoColor=white)](Https://bit.ly/LeeJoon)
